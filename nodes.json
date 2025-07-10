@@ -1,0 +1,397 @@
+{
+  "version": "3.74",
+  "nodes": [
+    {
+      "id": "root",
+      "name": "Root directory",
+      "type": "folder"
+    },
+    {
+      "id": "file1",
+      "parentId": "root",
+      "name": "Welcome (3.74)",
+      "type": "file",
+      "content": "# Terran Command\n## The auditor's database\n\nContained within this file is information gathered by the auditors of Terran Command.\n\nChanges occur sometimes."
+    },
+    {
+      "id": "folder1",
+      "parentId": "root",
+      "name": "Endevour System",
+      "type": "folder"
+    },
+    {
+      "id": "51442431-7253-4e90-bb15-a0dfac560e6c",
+      "parentId": "folder1",
+      "name": "Ground",
+      "type": "folder"
+    },
+    {
+      "id": "f7c6bfc7-8b9d-41f0-8bef-b4930b2bbcf0",
+      "parentId": "folder1",
+      "name": "Space",
+      "type": "folder"
+    },
+    {
+      "id": "6a40bb4f-ce01-4f28-9a28-7bf27a3b599a",
+      "parentId": "f7c6bfc7-8b9d-41f0-8bef-b4930b2bbcf0",
+      "name": "Destroy Borg Ships",
+      "type": "file",
+      "content": "### Destroy Borg Ships\n\nBorg ships are available in many missions and TFOs.\n\nStarting a private version of Cure Found will allow you to wait near Kang and simply blow up an infinte number of them."
+    },
+    {
+      "id": "d1a8e5b4-2c3f-4e9a-8f7b-1234567890ab",
+      "parentId": "51442431-7253-4e90-bb15-a0dfac560e6c",
+      "name": "Harvest Materials",
+      "type": "file",
+      "content": "### Harvest Materials (Ground)\n\n- **Mine Enemy** (Romulan Mystery): the Ground segment has **two** Material spawns and can be reset by warping out. Credit: u/Sheezdudeln.\n- **Sphere of Influence** (Dyson Sphere story): immediate Material spawn next to your beam-down point; resets on beam out."
+    },
+    {
+      "id": "e2b9f6c5-3d4e-5f0b-9a8c-2345678901bc",
+      "parentId": "51442431-7253-4e90-bb15-a0dfac560e6c",
+      "name": "Heal Health",
+      "type": "file",
+      "content": "### Heal Health (Ground)\n\n- **Science alternate**: spam Medical Tricorder, Vascular Regenerator or Nanite Health Monitor in any mission.\n- **Engineering alternate**: deploy a Medical Generator near an acid pool on Nukara Prime, then stand in the acid within kit range and AFK."
+    },
+    {
+      "id": "f3c0a7d6-4e5f-6a1c-0b9d-3456789012cd",
+      "parentId": "51442431-7253-4e90-bb15-a0dfac560e6c",
+      "name": "Restore Shields",
+      "type": "file",
+      "content": "### Restore Shields (Ground)\n\n- **Gnats on New Romulus** (Atlai Adventure Zone): stand in a swarm of gnats (and have your BOff in it) to generate multi-target healing/shield restores.\n- **BOff-kit method**: kit out Engineers with shield-healing powers on any heavy-damage ground map; soak fire and let passive heals tick."
+    },
+    {
+      "id": "a4d1b2c3-5e6f-7a8b-9c0d-4567890123de",
+      "parentId": "51442431-7253-4e90-bb15-a0dfac560e6c",
+      "name": "Deal Energy Damage",
+      "type": "file",
+      "content": "### Deal [Energy] Damage (Ground)\n\n- **Cyclic Modulation weapons** (Mudd\u2019s market) cover all six energy types with one click\u2014ideal for mixed-type Endeavors."
+    },
+    {
+      "id": "b5e2c3d4-6f7a-8b9c-0d1e-5678901234ef",
+      "parentId": "51442431-7253-4e90-bb15-a0dfac560e6c",
+      "name": "Deal Physical Damage",
+      "type": "file",
+      "content": "### Deal Physical Damage (Ground)\n\n- **Leck\u2019s Throwing Knives** (Quark\u2019s Lucky Seven, Gamma Quadrant).\n- Budget **kit module** options or **melee weapons** work too.\n\n*Note:* the TR-116B deals **Kinetic**, not Physical damage, so it won\u2019t count. Credit: u/Random-Red-Shirt, u/Hevach."
+    },
+    {
+      "id": "c6f3d4e5-7a8b-9c0d-1e2f-6789012345f0",
+      "parentId": "51442431-7253-4e90-bb15-a0dfac560e6c",
+      "name": "Defeat Borg",
+      "type": "file",
+      "content": "### Defeat Borg (Ground)\n\n- **Defera Invasion Zone**: head to the Power Plant subsection for fewer players and easy Borg kills."
+    },
+    {
+      "id": "d7a4b5c6-8b9c-0d1e-2f3a-7890123456a1",
+      "parentId": "51442431-7253-4e90-bb15-a0dfac560e6c",
+      "name": "Defeat Captains",
+      "type": "file",
+      "content": "### Defeat Captains (Ground)\n\n- **Dyson Ground Battlezone**: Polyonax-class Exosuits at 1/3 and 2/3 completion and area minibosses (e.g., Rex Axxara, General Foluma) all count as Captains."
+    },
+    {
+      "id": "e8b5c6d7-9c0d-1e2f-3a4b-8901234567b2",
+      "parentId": "51442431-7253-4e90-bb15-a0dfac560e6c",
+      "name": "Defeat Dewan Arthropods",
+      "type": "file",
+      "content": "### Defeat Dewan Arthropods (Ground)\n\n- **Partisans** (Klingon Civil War): at Madran\u2019s arena, activate the corner console to spawn endless arthropods; beam out when done."
+    },
+    {
+      "id": "f9c6d7e8-0d1e-2f3a-4b5c-9012345678c3",
+      "parentId": "51442431-7253-4e90-bb15-a0dfac560e6c",
+      "name": "Defeat Hur'q Attendants",
+      "type": "file",
+      "content": "### Defeat Hur'q Attendants (Ground)\n\n- **Melting Pot** (New Frontiers): beam down to Dranuur, clear Attendants.\n- **Storm Clouds Gather** & **Home** (Gamma Quadrant arc) also have good densities."
+    },
+    {
+      "id": "a0d7e8f9-1e2f-3a4b-5c6d-0123456789d4",
+      "parentId": "51442431-7253-4e90-bb15-a0dfac560e6c",
+      "name": "Defeat Terrans",
+      "type": "file",
+      "content": "### Defeat Terrans (Ground)\n\n- **Operation Wolf** & **Forged in Fire** (Private TFOs) can be done solo.\n- **Ragnarok** (Future Proof arc): skip to the Ground segment aboard Enterprise-J."
+    },
+    {
+      "id": "b1e8f9a0-2f3a-4b5c-6d7e-1234567890e5",
+      "parentId": "51442431-7253-4e90-bb15-a0dfac560e6c",
+      "name": "Defeat Tzenkethi",
+      "type": "file",
+      "content": "### Defeat Tzenkethi (Ground)\n\n- **Of Signs and Portents** (New Frontiers): clear the Ground segment before Kumaarke finishes deactivating the protomatter bomb."
+    },
+    {
+      "id": "c2f9a0b1-3a4b-5c6d-7e8f-2345678901f6",
+      "parentId": "51442431-7253-4e90-bb15-a0dfac560e6c",
+      "name": "Defeat Vaadwaur",
+      "type": "file",
+      "content": "### Defeat Vaadwaur (Ground)\n\n- **Kobali Prime** (Delta Quadrant Adventure Zone): plentiful Vaadwaur snake-folk spawn."
+    },
+    {
+      "id": "d3a0b1c2-4b5c-6d7e-8f9a-3456789012b7",
+      "parentId": "f7c6bfc7-8b9d-41f0-8bef-b4930b2bbcf0",
+      "name": "Harvest Materials",
+      "type": "file",
+      "content": "### Harvest Materials (Space)\n\n- **Mine Enemy** (Romulan Mystery): 4 Material spawns on the Space map; reset by warping out. Credit: u/Sheezdudeln.\n- **Archer & Carraya Patrols** (Beta Quadrant): 2 spawns each, plus Japori has 3; warp-out to reset without kill."
+    },
+    {
+      "id": "e4b1c2d3-5c6d-7e8f-9a0b-4567890123c8",
+      "parentId": "f7c6bfc7-8b9d-41f0-8bef-b4930b2bbcf0",
+      "name": "Destroy Destructible Torpedoes",
+      "type": "file",
+      "content": "### Destroy Destructible Torpedoes (Space)\n\n- **Undine Battlezone**: FAW builds or Carrier pets in Intercept Mode wreck torpedoes quickly. Credit: u/Necroglobule.\n- **Archer System** (Narendra Sector): Tholians fire destructible torpedoes; Carraya Patrols have Heavy Plasma Torps; **The Calling** mission\u2019s plasma bolts also count."
+    },
+    {
+      "id": "f5c2d3e4-6d7e-8f9a-0b1c-5678901234d9",
+      "parentId": "f7c6bfc7-8b9d-41f0-8bef-b4930b2bbcf0",
+      "name": "Restore Shields",
+      "type": "file",
+      "content": "### Restore Shields (Space)\n\n- **Warning:** shield heals are inconsistent. Early data suggests only heals while **below 100% Hull** count; this is under investigation and may be delisted from Hard rerolls."
+    },
+    {
+      "id": "a6d3e4f5-7e8f-9a0b-1c2d-6789012345e0",
+      "parentId": "f7c6bfc7-8b9d-41f0-8bef-b4930b2bbcf0",
+      "name": "Destroy Herald Ships",
+      "type": "file",
+      "content": "### Destroy Herald Ships (Space)\n\n- **Midnight** (first Space segment): destroy Heralds, then warp out to reset before repairs.\n- **Blood of Ancients** (Iconian War): skip cutscene, shred Heralds at Starbase 234; don\u2019t scout warp-out points."
+    },
+    {
+      "id": "b7e4f5a6-8f9a-0b1c-2d3e-7890123456f1",
+      "parentId": "f7c6bfc7-8b9d-41f0-8bef-b4930b2bbcf0",
+      "name": "Destroy Dreadnoughts",
+      "type": "file",
+      "content": "### Destroy Dreadnoughts (Space)\n\n- **Dyson Contested Zone**: all four Citadels count.\n- **Badlands Battlezone**: starbases defended by Dreadnoughts, plus war-crime spawns and cap-point waves."
+    },
+    {
+      "id": "c8f5a6b7-9a0b-1c2d-3e4f-8901234567g2",
+      "parentId": "f7c6bfc7-8b9d-41f0-8bef-b4930b2bbcf0",
+      "name": "Destroy Hur'q Frigates",
+      "type": "file",
+      "content": "### Destroy Hur'q Frigates (Space)\n\n- **Home** (Gamma Quadrant arc): reuse the very first map\u2019s Chidyat Swarmers (Hur\u2019q Frigates) for quick resets."
+    },
+    {
+      "id": "c7eb4ba3-fe60-417f-96c5-95ab65a19483",
+      "parentId": "file1",
+      "name": "Route to 2409",
+      "type": "folder"
+    },
+    {
+      "id": "0e0cff65-9af6-4c4d-b15c-9091791d7de9",
+      "parentId": "root",
+      "name": "Path to 2409",
+      "type": "folder"
+    },
+    {
+      "id": "0f328a80-5abe-4440-81ad-31cffa3d562c",
+      "parentId": "0e0cff65-9af6-4c4d-b15c-9091791d7de9",
+      "name": "Volume 1",
+      "type": "file",
+      "content": "**Chapter 1** \u2013 Who was the first praetor after Shinzon\u2019s death?  \n- Tal\u2019aura\n\n**Chapter 2** \u2013 Which ship was retrofitted in late 2379? U.S.S.  \n- Enterprise-E\n\n**Chapter 3** \u2013 Who led the Andak project on Cardassia Prime?  \n- Keiko O\u2019Brien"
+    },
+    {
+      "id": "c2e14e59-4281-4b6f-9fb5-e644dde61a1e",
+      "parentId": "0f328a80-5abe-4440-81ad-31cffa3d562c",
+      "name": "Volume 2",
+      "type": "file",
+      "content": ""
+    },
+    {
+      "id": "33335fbb-c64e-408f-8260-37ba0b7ee2aa",
+      "parentId": "0e0cff65-9af6-4c4d-b15c-9091791d7de9",
+      "name": "Volume 2",
+      "type": "file",
+      "content": "**Chapter 1** \u2013 Who led the Romulan forces fighting the Remans? \n- Tomalak\n\n**Chapter 2** \u2013 Who was the first empress of the imperial Romulan state?  \n- Donatra\n\n**Chapter 3** \u2013 With which planet did the Romulans in the unification movement want to reconnect?  \n- Vulcan\n\n**Chapter 4** \u2013 Who did the Cardassian government turn over for prosecution?  \n- No one\n\n**Chapter 5** \u2013 On Stardate 58839.03, construction on a Starfleet ship began in San Francisco. What ship was it?  \n- U.S.S. Stargazer-A"
+    },
+    {
+      "id": "def27006-053d-4235-a353-7b60575fd365",
+      "parentId": "0e0cff65-9af6-4c4d-b15c-9091791d7de9",
+      "name": "Volume 3",
+      "type": "file",
+      "content": "**Chapter 1** \u2013 What was in short supply on the Romulan homeworld?  \n- Food\n\n**Chapter 2** \u2013 Which family rejected Tal\u2019aura\u2019s reorganization of the Romulan Senate?  \n- The line of Tellus\n\n**Chapter 3** \u2013 Which planet did the Klingons take from the Romulans?  \n- Khitomer\n\n**Chapter 4** \u2013 Who did the Klingons fight when they conquered Khitomer?  \n- The Romulans\n\n**Chapter 5** \u2013 Who argued against aid for the Unification movement on Romulus?  \n- T\u2019Los of Vulcan\n\n**Chapter 6** \u2013 What did the Doctor sue to keep from Starfleet?  \n- Mobile emitter\n\n**Chapter 7** \u2013 How many Cardassians disappeared from Cardassia Prime in 2382?  \n- 472"
+    },
+    {
+      "id": "446cc099-70cf-4181-b50b-458d7c7b6e50",
+      "parentId": "0e0cff65-9af6-4c4d-b15c-9091791d7de9",
+      "name": "Volume 4",
+      "type": "file",
+      "content": "**Chapter 1** \u2013 Why did violence break out in the Romulan capital?  \n- Food Rationing\n\n**Chapter 2** \u2013 Who defected to join the Imperial Romulan State?  \n- Admiral Taris\n\n**Chapter 3** \u2013 Which religious group became popular on Cardassia Prime?  \n- The Oralians\n\n**Chapter 4** \u2013 Who did Martok defeat in a duel of honor?  \n- Councilor Qolka\n\n**Chapter 5** \u2013 Which group began work to develop a mobile emitter?  \n- Soong Foundation"
+    },
+    {
+      "id": "7ff6477a-d6d1-4fce-a589-09175110a23a",
+      "parentId": "0e0cff65-9af6-4c4d-b15c-9091791d7de9",
+      "name": "Volume 5",
+      "type": "file",
+      "content": "**Chapter 1** \u2013 Who was Tal\u2019aura\u2019s new proconsul?  \n- Sela\n\n**Chapter 2** \u2013 Who went to Romulus to speak for the Imperial Romulan State?  \n- Admiral Taris\n\n**Chapter 3** \u2013 How did Tal\u2019aura die?  \n- Assassinated as she slept\n\n**Chapter 4** \u2013 Who attacked the I.K.S. Quv?  \n- A Gorn ship\n\n**Chapter 5** \u2013 Where did Odo and Laas meet?  \n- Koralis III\n\n**Chapter 6** \u2013 Which organization was trying to restore B-4?  \n- Soong Foundation"
+    },
+    {
+      "id": "77fe0e6c-8af4-42bb-9ced-1f083101faea",
+      "parentId": "7ff6477a-d6d1-4fce-a589-09175110a23a",
+      "name": "Volume 6",
+      "type": "file",
+      "content": ""
+    },
+    {
+      "id": "8cecf085-c301-4415-9b05-225f5115185b",
+      "parentId": "0e0cff65-9af6-4c4d-b15c-9091791d7de9",
+      "name": "Volume 6",
+      "type": "file",
+      "content": "**Chapter 1** \u2013 Where did Jean-Luc Picard go during his final mission as captain of the U.S.S. Enterprise-E?  \n- Khitomer\n\n**Chapter 2** \u2013 Which ship was Beverly Crusher given when she was promoted to captain?  \n- U.S.S. Pasteur\n\n**Chapter 3** \u2013 Which former Enterprise-E officer helped unlock the Data Matrix?  \n- Geordi La Forge\n\n**Chapter 4** \u2013 Which organization did Seven of Nine join?  \n- Daystrom Institute\n\n**Chapter 5** \u2013 Who was the leader of the Tal Shiar?  \n- Rehaek\n\n**Chapter 6** \u2013 Who lost the campaign for Praetor after Tal\u2019aura\u2019s death?  \n- Sela\n\n**Chapter 7** \u2013 Who did Donatra ally with after Tal\u2019aura\u2019s death?  \n- The Remans"
+    },
+    {
+      "id": "ffb334ac-2203-416f-80c2-6d841b212b2c",
+      "parentId": "0e0cff65-9af6-4c4d-b15c-9091791d7de9",
+      "name": "Volume 7",
+      "type": "file",
+      "content": "**Chapter 1** \u2013 Which planet was overmined according to the Romulan Mining Guild?  \n- Remus\n\n**Chapter 2** \u2013 To which planet did the Remans relocate?  \n- Crateris\n\n**Chapter 3** \u2013 Whom did Rehaek blame for the assassination of Praetor Tal\u2019aura?  \n- The Nobles\n\n**Chapter 4** \u2013 Who convinced the praetor to commute Sela\u2019s death sentence?  \n- Donatra\n\n**Chapter 5** \u2013 What position was Data given when he returned to Starfleet?  \n- Captain of the U.S.S. Enterprise-E\n\n**Chapter 6** \u2013 Who conquered Gila IV?  \n- The Klingon Empire\n\n**Chapter 7** \u2013 How much did a protest permit cost on Ferenginar?  \n- One bar of gold-pressed latinum\n\n**Chapter 8** \u2013 Who was the First of the Alpha Jem\u2019Hadar?  \n- Lamat\u2019Ukan"
+    },
+    {
+      "id": "1bb1aa49-801a-45af-ab2a-0901bfc927f7",
+      "parentId": "0e0cff65-9af6-4c4d-b15c-9091791d7de9",
+      "name": "Volume 8",
+      "type": "file",
+      "content": "**Chapter 1** \u2013 Who designed the Jellyfish?  \n- Geordi La Forge\n\n**Chapter 2** \u2013 Who killed Raimus?  \n- Hassan the undying\n\n**Chapter 3** \u2013 What proposal by the Grand Nagus was rejected in 2387?  \n- Ferengi alliance with the Federation\n\n**Chapter 4** \u2013 Which planet did the Jem\u2019Hadar occupy?  \n- Devros II\n\n**Chapter 5** \u2013 Which group first detected radiation fluctuations in the Hobus star?  \n- Romulan Mining Guild\n\n**Chapter 6** \u2013 Who did Donatra order to return to Romulus?  \n- Admiral Taris\n\n**Chapter 7** \u2013 How long did the Romulan military report it would take to evacuate the home world?  \n- Six weeks\n\n**Chapter 8** \u2013 Who did Martok appoint to be a commander of the Klingon fleet?  \n- Worf\n\n**Chapter 9** \u2013 Which ship was lost in the Hobus system with the Jellyfish?  \n- Narada"
+    },
+    {
+      "id": "7f46b569-590a-4c3b-b271-9d0c03cae105",
+      "parentId": "0e0cff65-9af6-4c4d-b15c-9091791d7de9",
+      "name": "Volume 9",
+      "type": "file",
+      "content": "**Chapter 1** \u2013 Which world was the first to claim the title of capital of the Romulan star empire?  \n- Rator III\n\n**Chapter 2** \u2013 Which faction refused to send aid to the Romulans?  \n- Klingon Empire\n\n**Chapter 3** \u2013 Who led the faction of the High Council that blamed the Federation for the loss of the fleet?  \n- J\u2019mpok\n\n**Chapter 4** \u2013 What is the name of Worf\u2019s second son?  \n- K\u2019Dhan\n\n**Chapter 5** \u2013 How many planets withdrew their ambassadors to Vulcan?  \n- 19"
+    },
+    {
+      "id": "9d12baa1-6311-40f4-91dd-0a664e4e870d",
+      "parentId": "0e0cff65-9af6-4c4d-b15c-9091791d7de9",
+      "name": "Volume 10",
+      "type": "file",
+      "content": "**Chapter 1** \u2013 How many Romulans attempted to take over as emperor in 2389?  \n- 5\n\n**Chapter 2** \u2013 Which faction allied with the Gorn?  \n- Nausicaans\n\n**Chapter 3** \u2013 What was the name of B\u2019Vat\u2019s son?  \n- K\u2019das\n\n**Chapter 4** \u2013 Where did Gul Madred build a mining operation?  \n- Septimus system\n\n**Chapter 5** \u2013 Who was the Federation Council representative from Vulcan?  \n- T\u2019Los\n\n**Chapter 6** \u2013 What happened to expand the Doctor\u2019s lawsuit?  \n- It became a class-action suit covering all sentient artificial lifeforms in the Federation"
+    },
+    {
+      "id": "a9ba3670-1b44-4b71-9a77-2a52e1284b35",
+      "parentId": "0e0cff65-9af6-4c4d-b15c-9091791d7de9",
+      "name": "Volume 11",
+      "type": "file",
+      "content": "**Chapter 1** \u2013 Which group wanted protection from Nausicaan raiders?  \n- Federation transport union\n\n**Chapter 2** \u2013 How many recommendations did the Klingon defense force have to improve their status?  \n- Three\n\n**Chapter 3** \u2013 Which Romulan colony requested federation protection?  \n- Talvath\n\n**Chapter 4** \u2013 Who did the crew of the U.S.S. Pasteur work with to develop a treatment for Yarmin Fel syndrome?  \n- Cardassian Ministry of Science\n\n**Chapter 5** \u2013 Which group sought to block the class-action lawsuit dealing with the rights of artificial lifeforms?  \n- Holonovel publishers and programmers\n\n**Chapter 6** \u2013 Which ship explored the McAllister C-5 nebula?  \n- U.S.S. Enterprise-E\n\n**Chapter 7** \u2013 Who met with the leaders of the Federation transport union?  \n- Nan Bacco"
+    },
+    {
+      "id": "eb2abf45-dec4-44ef-9b28-92638a753d9c",
+      "parentId": "0e0cff65-9af6-4c4d-b15c-9091791d7de9",
+      "name": "Volume 12",
+      "type": "file",
+      "content": "**Chapter 1** \u2013 Who met with leaders of the Federation transport union?  \n- Federation president Nan Bacco\n\n**Chapter 2** \u2013 What was the name of the Klingon who planted the explosive at the peace conference?  \n- J\u2019dah\n\n**Chapter 3** \u2013 Who did the Gorn talk to about an alliance?  \n- The Letheans\n\n**Chapter 4** \u2013 Who led the Klingon invasion into the Zeta Pictoris system?  \n- J\u2019mpok\n\n**Chapter 5** \u2013 Where did Sela and her followers settle?  \n- Makar\n\n**Chapter 6** \u2013 Who agreed to finance the reconstruction of the Cardassan industrial complex?  \n- Grand Nagus Rom\n\n**Chapter 7** \u2013 What did the Soong Foundation want to add to the Federation constitution?  \n- Rights for artificial lifeforms\n\n**Chapter 8** \u2013 Which ship was successful with an extremely diverse crew?  \n- U.S.S. Titan"
+    },
+    {
+      "id": "760e3ea8-3bcc-471e-9142-0c9bc35fb4f5",
+      "parentId": "0e0cff65-9af6-4c4d-b15c-9091791d7de9",
+      "name": "Volume 13",
+      "type": "file",
+      "content": "**Chapter 1** \u2013 Who won the election for federation president?  \n- Aennik Okeg\n\n**Chapter 2** \u2013 Where were the 2392 peace talks held?  \n- Cestus III\n\n**Chapter 3** \u2013 Which great house was supporting J\u2019mpok in 2392?  \n- The house of Torg\n\n**Chapter 4** \u2013 Who did Gul Madred start exporting ore to?  \n- Romulans\n\n**Chapter 5** \u2013 What was the name of the Romulan capital?  \n- Rihan"
+    },
+    {
+      "id": "49f5d91d-b510-4023-af9c-9513ea179d37",
+      "parentId": "0e0cff65-9af6-4c4d-b15c-9091791d7de9",
+      "name": "Volume 14",
+      "type": "file",
+      "content": "**Chapter 1** \u2013 Who did J\u2019mpok ban from the great hall?  \n- Ambassador Worf\n\n**Chapter 2** \u2013 What is the name of the group that guards the Klingon chancellor?  \n- Yan-Isleth\n\n**Chapter 3** \u2013 Who was the arbiter of succession?  \n- B\u2019vat\n\n**Chapter 4** \u2013 Which worlds joined the Federation in 2393?  \n- Bajor and Tama Prime\n\n**Chapter 5** \u2013 Which ship met with a being claiming to be from the Metron Consortium?  \n- U.S.S. Stargazer-A\n\n**Chapter 6** \u2013 Which group did Gul Madred hire to protect his mines?  \n- Alpha Jem\u2019Hadar\n\n**Chapter 7** \u2013 Who did Taris clash with over the role of the military?  \n- General Tebok"
+    },
+    {
+      "id": "158dce69-9fb9-458a-9709-fabc310ffe64",
+      "parentId": "0e0cff65-9af6-4c4d-b15c-9091791d7de9",
+      "name": "Volume 15",
+      "type": "file",
+      "content": "**Chapter 1** \u2013 In what system does the house of J\u2019mpok own property?  \n- Pheben\n\n**Chapter 2** \u2013 On which planet did Melani D\u2019ian settle?  \n- Ter\u2019jas Mor\n\n**Chapter 3** \u2013 What happened to crime rates after Melani D\u2019ian took control of the Orion syndicate?  \n- Increased significantly\n\n**Chapter 4** \u2013 What was the new name for the Romulan capital city being constructed on Rator III?  \n- Nova Roma\n\n**Chapter 5** \u2013 Which photonic lifeform was declared sentient by the Federation supreme court?  \n- The Doctor\n\n**Chapter 6** \u2013 What was the name of Alexander Rozhenko\u2019s son?  \n- D\u2019Vak"
+    },
+    {
+      "id": "38434ddd-1429-4340-bb40-bc063438ed4c",
+      "parentId": "0e0cff65-9af6-4c4d-b15c-9091791d7de9",
+      "name": "Volume 16",
+      "type": "file",
+      "content": "**Chapter 1** \u2013 Where was the U.S.S. Kelso when it was destroyed?  \n- Devron Sector\n\n**Chapter 2** \u2013 How many members of Starfleet security were court-martialed after the destruction of the U.S.S. Kelso?  \n- Six\n\n**Chapter 3** \u2013 What rank was the Doctor\u2019s Starfleet commission?  \n- Lieutenant Commander\n\n**Chapter 4** \u2013 What races rebuilt the monastery at P\u2019Jem?  \n- Vulcan, Human, and Andorian\n\n**Chapter 5** \u2013 Where was Ja\u2019rod when he was ambushed?  \n- Rha\u2019darus"
+    },
+    {
+      "id": "cef0e225-4860-41c9-be05-39ef32123321",
+      "parentId": "0e0cff65-9af6-4c4d-b15c-9091791d7de9",
+      "name": "Volume 17",
+      "type": "file",
+      "content": "**Chapter 1** \u2013 Who developed a treatment for Bloodfire?  \n- Beverly Crusher\n\n**Chapter 2** \u2013 How many warships were missing from Cardassia Prime?  \n- At least 75\n\n**Chapter 3** \u2013 Who was the leader of the Klingon defense force\u2019s seventh fleet?  \n- D\u2019ald\n\n**Chapter 4** \u2013 Which house did Captain Klor owe fealty to?  \n- House of Martok\n\n**Chapter 5** \u2013 Who were trading ships and weapons for Sela\u2019s decalithium?  \n- Dopterians\n\n**Chapter 6** \u2013 Who was the captain of the U.S.S. Cochrane?  \n- T\u2019Vix"
+    },
+    {
+      "id": "4ee1d700-ca0c-474d-81d8-d32672715003",
+      "parentId": "0e0cff65-9af6-4c4d-b15c-9091791d7de9",
+      "name": "Volume 18",
+      "type": "file",
+      "content": "**Chapter 1** \u2013 Which ship was Geordi La Forge given command of when he was promoted to captain?  \n- U.S.S. Challenger\n\n**Chapter 2** \u2013 Who restored the house of Duras to legitimacy?  \n- J\u2019mpok\n\n**Chapter 3** \u2013 Who moved to the former Orion homeworld in 2397?  \n- Hassan the Undying\n\n**Chapter 4** \u2013 What did General Tebok refuse to do in 2397?  \n- Fire on civilians on Kevatras"
+    },
+    {
+      "id": "34635618-45b9-43c2-8717-10ce83ff1f35",
+      "parentId": "0e0cff65-9af6-4c4d-b15c-9091791d7de9",
+      "name": "Volume 19",
+      "type": "file",
+      "content": "**Chapter 1** \u2013 Which beings did the Federation council exclude from the dual citizenship program?  \n- Artificial lifeforms\n\n**Chapter 2** \u2013 Rhea was the first person granted dual citizenship in the Federation. Where else did she hold citizenship?  \n- Ferenginar\n\n**Chapter 3** \u2013 What bloc helped Aennik Okeg win a second term as Federation President?  \n- New voters with dual citizenship\n\n**Chapter 4** \u2013 Which ship was Naomi Wildman assigned to?  \n- U.S.S. Hathaway\n\n**Chapter 5** \u2013 What kind of explosive was used in the attack on the peace conference in 2398?  \n- Ultritium resin\n\n**Chapter 6** \u2013 Who took command of the Romulan second fleet?  \n- General Velal"
+    },
+    {
+      "id": "7cdebb1d-f022-4278-b902-fa32e9ffbacc",
+      "parentId": "0e0cff65-9af6-4c4d-b15c-9091791d7de9",
+      "name": "Volume 20",
+      "type": "file",
+      "content": "**Chapter 1** \u2013 Who inspired many Ferengi to apply to Starfleet Academy?  \n- Nog\n\n**Chapter 2** \u2013 Which technology formed the basis of Starfleet\u2019s transwarp network?  \n- Borg\n\n**Chapter 3** \u2013 What did Tebok\u2019s crew think was causing the malfunctions on the Alth\u2019Indor?  \n- Computer virus\n\n**Chapter 4** \u2013 What did J\u2019mpok call the Undine?  \n- qa\u2019meH quv\n\n**Chapter 5** \u2013 Who condemned the Klingon invasion of the Gorn hegemony?  \n- Federation Council\n\n**Chapter 6** \u2013 Who was allowed to stay in the first city after Federation citizens were asked to leave?  \n- Worf"
+    },
+    {
+      "id": "bfdc4016-68c1-4ab4-b66a-f4444d086533",
+      "parentId": "0e0cff65-9af6-4c4d-b15c-9091791d7de9",
+      "name": "Volume 21",
+      "type": "file",
+      "content": "**Chapter 1** \u2013 What did the Federation do after the outbreak of war between the Klingons and the Gorn?  \n- Reinforced borders and outposts\n\n**Chapter 2** \u2013 In 2400, what did the Federation council declare to be illegal?  \n- Gorn-Klingon war\n\n**Chapter 3** \u2013 Where was Harry Kim assigned in 2400?  \n- Starbase 11\n\n**Chapter 4** \u2013 Who was investigating the destruction of the I.R.W. Alth\u2019Indor?  \n- Sela"
+    },
+    {
+      "id": "0683779c-4af0-4bdf-a8c4-e51180c097bb",
+      "parentId": "0e0cff65-9af6-4c4d-b15c-9091791d7de9",
+      "name": "Volume 22",
+      "type": "file",
+      "content": "**Chapter 1** \u2013 Where did Sela and General Velal meet in 2401?  \n- Zeta Voltantis\n\n**Chapter 2** \u2013 Who was elected to lead the Cardassian Union in 2401?  \n- Natima Lang\n\n**Chapter 3** \u2013 Who was revealed to be an Undine in 2401?  \n- Councilor Konjah\n\n**Chapter 4** \u2013 In 2401, which ship attempted to aid the Gorn?  \n- U.S.S. Lindberg\n\n**Chapter 5** \u2013 Who resigned his post after the Federation council refused to change their position on the Gorn-Klingon war?  \n- Worf\n\n**Chapter 6** \u2013 Who was named head of Starfleet Corps of Engineers in 2401?  \n- Miles O\u2019Brien"
+    },
+    {
+      "id": "630f7791-1a26-46a2-ad93-59df0584dd8c",
+      "parentId": "0e0cff65-9af6-4c4d-b15c-9091791d7de9",
+      "name": "Volume 23",
+      "type": "file",
+      "content": "**Chapter 1** \u2013 Who blockaded the Gorn homeworld in 2402?  \n- Klingons and Orions\n\n**Chapter 2** \u2013 In 2402, Klingons attacked a Starfleet vessel during Cadet Miral Paris\u2019s senior cruise. Which ship did they attack?  \n- U.S.S. Pike\n\n**Chapter 3** \u2013 To which race may the Lorians be related?  \n- Xindi\n\n**Chapter 4** \u2013 To where did Jean-Luc Picard retire?  \n- France\n\n**Chapter 5** \u2013 Who was the leader of the True Way in 2402?  \n- Gul Madred\n\n**Chapter 6** \u2013 Who arrived to support General Velal after he rebelled against Praetor Taris?  \n- Sela"
+    },
+    {
+      "id": "161b4e9b-5314-4966-844e-a0235f73c0a4",
+      "parentId": "0e0cff65-9af6-4c4d-b15c-9091791d7de9",
+      "name": "Volume 24",
+      "type": "file",
+      "content": "**Chapter 1** \u2013 What did the Klingons destroy to allow them to land on the Gorn homeworld?  \n- Planetary power relay\n\n**Chapter 2** \u2013 Which general was in charge of the Klingon force that invaded the Gorn homeworld?  \n- General Klag\n\n**Chapter 3** \u2013 Why did the Klingons execute the Gorn prime minister and head of military intelligence?  \n- They were Undine in disguise\n\n**Chapter 4** \u2013 Who did J\u2019mpok give a non-voting seat on the High Council in 2403?  \n- Slathis\n\n**Chapter 5** \u2013 What is the name of Emperor Kahless\u2019s ship?  \n- I.K.S. Batlh\n\n**Chapter 6** \u2013 Who captured Praetor Taris after the revolt in 2403?  \n- No one\n\n**Chapter 7** \u2013 Who was named leader of the Romulan fleet after the revolt in 2403?  \n- General Velal"
+    },
+    {
+      "id": "e8da6f02-b7c7-4dfa-9a26-1dc35ed4d49b",
+      "parentId": "0e0cff65-9af6-4c4d-b15c-9091791d7de9",
+      "name": "Volume 25",
+      "type": "file",
+      "content": "**Chapter 1** \u2013 What did Starfleet open more of in 2404?  \n- Transwarp hubs\n\n**Chapter 2** \u2013 What did the Soong Foundation want Starfleet to disclose in 2404?  \n- Location and condition of all holograms\n\n**Chapter 3** \u2013 How long did J\u2019mpok give the Federation to remove its citizens from the Hromi cluster?  \n- Three months\n\n**Chapter 4** \u2013 Where did Sela open a memorial in 2404?  \n- Remains of the Romulan homeworld"
+    },
+    {
+      "id": "d41b3257-c52f-43f9-8d67-4183097be91c",
+      "parentId": "0e0cff65-9af6-4c4d-b15c-9091791d7de9",
+      "name": "Volume 26",
+      "type": "file",
+      "content": "**Chapter 1** \u2013 What was the first Federation system attacked by the Klingons in 2405?  \n- Korvat\n\n**Chapter 2** \u2013 What ship was damaged defending Korvat?  \n- U.S.S. Montgomery Scott\n\n**Chapter 3** \u2013 Who signed a non-aggression pact with the Klingon Empire in 2405?  \n- The Nausicaans\n\n**Chapter 4** \u2013 What did the Ferengi agree to share with the Federation in 2405?  \n- Technology and information\n\n**Chapter 5** \u2013 Who was elected Federation president in 2405?  \n- Aennik Okeg\n\n**Chapter 6** \u2013 What plan"
+    },
+    {
+      "id": "0a575e20-43bc-46e9-8f94-ddf0cea832af",
+      "parentId": "0e0cff65-9af6-4c4d-b15c-9091791d7de9",
+      "name": "Volume 27",
+      "type": "file",
+      "content": "**Chapter 1** \u2013 The Klingons attempted to conquer the Archanis Sector once before 2408. In which year did that happen?  \n- 2372\n\n**Chapter 2** \u2013 In 2406, the Federation developed power cells that allowed for the creation of personal shields. Where were the power cells developed?  \n- Memory Alpha\n\n**Chapter 3** \u2013 What did the Carnegie colony provide for the Federation?  \n- Factories and replicator facilities\n\n**Chapter 4** \u2013 Who was the head of Starfleet Intelligence in 2406?  \n- Chakotay"
+    },
+    {
+      "id": "e3302fcc-7e02-4292-a0f2-42f84d888495",
+      "parentId": "0e0cff65-9af6-4c4d-b15c-9091791d7de9",
+      "name": "Volume 28",
+      "type": "file",
+      "content": "**Chapter 1** \u2013 Who rejected the idea of a Federation-Klingon cease-fire in 2407?  \n- Chancellor J\u2019mpok\n\n**Chapter 2** \u2013 In 2407, which species was struck by the virus that devastated the Carnegie colony?  \n- Phylosians\n\n**Chapter 3** \u2013 What were the Romulans searching for in 2407?  \n- Sword of S\u2019task\n\n**Chapter 4** \u2013 Who sought an alliance with the Klingon Empire in 2407?  \n- Letheans"
+    },
+    {
+      "id": "86401b7e-7cf0-43cc-8695-a258a6e27a55",
+      "parentId": "0e0cff65-9af6-4c4d-b15c-9091791d7de9",
+      "name": "Volume 29",
+      "type": "file",
+      "content": "**Chapter 1** \u2013 Who is the mayor of Pike City in 2408?  \n- Jae Aaron\n\n**Chapter 2** \u2013 Who became the Romulan praetor after Sela was crowned empress?  \n- No one\n\n**Chapter 3** \u2013 What did Sela do at her coronation?  \n- Took a blood oath to uphold the empire\n\n**Chapter 4** \u2013 Where did Starfleet send the U.S.S. Enterprise-E in 2408?  \n- Starbase 236"
+    }
+  ]
+}
