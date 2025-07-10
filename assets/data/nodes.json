@@ -1,5 +1,5 @@
 {
-  "version": "3.74",
+  "version": "3.75",
   "nodes": [
     {
       "id": "root",
@@ -9,7 +9,7 @@
     {
       "id": "file1",
       "parentId": "root",
-      "name": "Welcome (3.74)",
+      "name": "Welcome",
       "type": "file",
       "content": "# Terran Command\n## The auditor's database\n\nContained within this file is information gathered by the auditors of Terran Command.\n\nChanges occur sometimes."
     },
