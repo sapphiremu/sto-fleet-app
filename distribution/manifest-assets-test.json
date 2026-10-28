@@ -1,0 +1,26 @@
+{
+  "manifest_format": 2,
+  "channel": "test",
+  "content_version": "1.0.5",
+  "schema_version": "1.0.0",
+  "package": {
+    "url": "https://github.com/sapphiremu/sto-fleet-app/releases/download/content-test-v1.0.5/fleet-content-assets-v1.0.5.zip",
+    "sha256": "5bcc60b100c943ab17d7c7d9c03511a41e131de4e75c016489c19a7531362178",
+    "size_bytes": 38326
+  },
+  "database": {
+    "path": "fleet-content.sqlite",
+    "sha256": "828ddaa334a16b4240ed498105b2dbd518dbe8447c08cb80b275984b5d6d8082",
+    "size_bytes": 131072
+  },
+  "assets": {
+    "img-09e111467bb4447b8cf5e33e43ee6fc3": {
+      "path": "assets/img-09e111467bb4447b8cf5e33e43ee6fc3.jpg",
+      "sha256": "31943c03ad5eba28f94f51b04f164a30b258b11a68e69ea7d2d710a45dc9ae8c",
+      "size_bytes": 3713
+    }
+  },
+  "index_metadata": {
+    "path": "index-metadata.json"
+  }
+}
